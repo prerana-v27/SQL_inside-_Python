@@ -1,1 +1,3 @@
-# SQL_inside-_Python
+# SQLite Sales Analysis Project
+
+This repository contains a Python script that creates and analyzes an SQLite database (sales_data.db) with sales data, including product details, quantities, prices, and transaction dates. The script generates key metrics (total revenue, quantity sold, average price) and visualizations (bar charts, trend lines) using pandas and matplotlib. The database can be explored using DB Browser for SQLite or VS Code extensions. Ideal for learning SQL-Python integration, data analysis, and basic visualization techniques. Clone the repo, run the Jupyter Notebook or Python script, and follow the instructions to explore the sales insights. Contributions and improvements welcome! 🚀
